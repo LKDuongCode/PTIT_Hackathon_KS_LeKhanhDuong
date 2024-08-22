@@ -1,0 +1,37 @@
+[
+  {
+    "id": 101,
+    "employeeName": "David Ngô",
+    "dateOfBirth": "17/12/2005",
+    "employeeImage": "https://static1.squarespace.com/static/656f4e4dababbd7c042c4946/657236350931ee4538eea52c/65baf15103d8ad2826032a8a/1707422532886/how-to-stop-being-a-people-pleaser-1_1.jpg?format=1500w",
+    "email": "davidngo@gmail.com"
+  },
+  {
+    "id": 102,
+    "employeeName": "duong",
+    "dateOfBirth": "22/04/1998",
+    "employeeImage": "https://images.pexels.com/photos/837358/pexels-photo-837358.jpeg?cs=srgb&dl=pexels-olly-837358.jpg&fm=jpg",
+    "email": "sarahtran@gmail.com"
+  },
+  {
+    "id": 103,
+    "employeeName": "Michael Lee",
+    "dateOfBirth": "03/08/1985",
+    "employeeImage": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?cs=srgb&dl=pexels-pixabay-39866.jpg&fm=jpg",
+    "email": "michaelle@gmail.com"
+  },
+  {
+    "id": 104,
+    "employeeName": "Jennifer Phạm",
+    "dateOfBirth": "11/02/1992",
+    "employeeImage": "https://i.pinimg.com/236x/d8/c5/a8/d8c5a8b73b185645565d96b9b56e0405.jpg",
+    "email": "jenniferpham@gmail.com"
+  },
+  {
+    "id": 105,
+    "employeeName": "Tommy Nguyễn",
+    "dateOfBirth": "27/07/1990",
+    "employeeImage": "https://cdn.stocksnap.io/img-thumbs/280h/business-people_H6PSN9BPGZ.jpg",
+    "email": "tommynguyen@gmail.com"
+  }
+]

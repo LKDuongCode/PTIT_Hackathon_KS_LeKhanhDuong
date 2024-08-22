@@ -16,5 +16,8 @@ const config: Config = {
     },
   },
   plugins: [],
+  corePlugins: {
+    preflight: false, //loại bỏ thuộc tính mặc định.
+  },
 };
 export default config;
