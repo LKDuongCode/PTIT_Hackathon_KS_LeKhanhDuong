@@ -14,7 +14,7 @@ interface Employee {
   email: string;
 }
 
-export default function page() {
+export default function Page() {
   // todo : render nhân viên-------------------------------------------------------------------
   const [getData, setGetData] = useState<any>({});
   const [employees, setEmployees] = useState<Employee[]>([]);
